@@ -190,7 +190,7 @@ p {
     font-size: 36px;
     
 }
-.marketing-section
+.marketing-section 
 
 /* Individual sections */
 .search-engine-optimization,
@@ -198,10 +198,7 @@ p {
 .social-media-marketing
 
 
-/* Marketing section images */
-.marketing-section img {
-    max-height:200px;
-}
+
 
 .footer {
     padding: 30px;
